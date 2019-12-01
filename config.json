@@ -1,0 +1,20 @@
+{
+	"database": {
+		"database": "db",
+		"user": "root",
+		"host": "localhost",
+		"password": "xxxxxxxxxxxxxxxxxx",
+		"dialect": "mysql"
+	},
+	"bot": {
+		"token": "NTU0MDYwNjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+		"prefix": "!",
+		"owners": [
+			"4815xxxxxxxxxxxxxx",
+			"2867xxxxxxxxxxxxxx"
+			],
+		"guild": "53647680xxxxxxxxxxx",
+		"staff_channel": "55405xxxxxxxxxxx",
+		"logo_url": "https://i.imgur.com/xxxxx.png"
+	}
+}
